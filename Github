@@ -1,0 +1,18 @@
+Create a repository or a file
+Terminal : cd myDir 
+           git clone repository URL
+If testing features, create a new fork/branch
+
+Commands:
+git clone URL -> clone project in dir on local
+git status -> differences
+git add file.php or (.) or -A
+git commit -m "message between quotes"
+git push -> put on version control
+git pull -> get from version control 
+
+git -> gives all available commands
+
+If stuck (forgot the -m for commit) press esc ; wq 
+
+Start using git!
