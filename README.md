@@ -3,9 +3,10 @@ Learning how to use this version control and want to use it to for all my new pr
 
 1. Git: 
   2 hours theory  
-  4 labs
+  1 lab
+  Use for all future projects. 
   
-2. Docker:
+2. Docker:-> will not use. 
   6 hours theory
   8 labs
   
