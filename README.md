@@ -9,8 +9,11 @@ Learning how to use this version control and want to use it to for all my new pr
 2. Docker:-> will not use. 
   6 hours theory
   8 labs
-  
-3. HTML:
+
+2. IntelliJ: -> will not use. 
+ 
+3. HTML: -> I already know HTML pretty well. 
+I might just get a refresh read on mdn. 
   8 hours theory
   12 labs
   
